@@ -1,1 +1,1 @@
-require('./lib/app').start({})
+require('./lib/app').start({}).then(app => app.run())

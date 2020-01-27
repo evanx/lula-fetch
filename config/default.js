@@ -1,5 +1,6 @@
 module.exports = {
-  inKeyPrefix: 'in',
+  reqKeyPrefix: 'req',
+  resExpireSeconds: 44,
   logger: {
     level: 'info',
   },

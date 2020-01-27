@@ -37,6 +37,7 @@
     "config": "^3.2.4",
     "digest-fetch": "^1.0.9",
     "ioredis": "^4.14.0",
-    "lula-common": "git+https://git@github.com/evanx/lula-common.git"
+    "lula-common": "git+https://git@github.com/evanx/lula-common.git",
+    "node-fetch": "^2.6.0"
   }
 }
